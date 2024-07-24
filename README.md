@@ -1,1 +1,1 @@
-# This is a repositary with all of my Tableau projects
+# This is a repository with all of my Tableau projects
