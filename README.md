@@ -1,1 +1,3 @@
-# This is a repository with all of my Tableau projects
+# Tableau Repository
+
+Tableau: https://public.tableau.com/app/profile/shrutika.pujari/vizzes
